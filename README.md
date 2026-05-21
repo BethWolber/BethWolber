@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+I'm currently studying Information Technology at Macomb Community College, with plans to transfer to Wayne State University in the fall to continue my studies. I am currently enrolled in a C++ class, and this GitHub profile is a result of that course. I'm excited to learn more about GitHub and C++, and can't wait to see what I'll be able to do after the class has finished.
 
 <!--
 **BethWolber/BethWolber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
